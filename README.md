@@ -1,3 +1,6 @@
+## Live Demo of Site Design
+- https://lexierobot.github.io/colorful-portfolio-design/index.html
+
 # lexierobot.github.io
 # Personal website
 
@@ -13,3 +16,7 @@
 
 ### Apr 19 2020
 - Have completely changed this. Got rid of Bootstrap and built with Grid. Will have to add JS to get 3 column tiles to align correctly (height) on Desktop version of Portfolio page.
+
+### Apr 27 2020
+- Went with an alternate design at lexierobot.github.io
+- See a live demo of this site at https://lexierobot.github.io/colorful-portfolio-design/index.html
